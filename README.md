@@ -1,5 +1,5 @@
 # team-project
 
 <ul>
- <li>Welcome to the Team Project</li>
+ <li>Welcome to the project!</li>
 </ul>
